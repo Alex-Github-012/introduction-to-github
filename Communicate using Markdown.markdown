@@ -1,3 +1,4 @@
-# This is an <h1> header, which is the largest
-## This is an <h2> header
-###### This is an <h6> header, which is the smallest
+# <h1> This is an header, which is the largest.
+## <h2> This is an header.
+###### <h6> This is an header, which is the smallest.
+Add a #, followed by a space, before the content to make it an H1 Header. You can add more headers, using one to six # characters followed by a spac
